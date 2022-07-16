@@ -1,0 +1,2 @@
+mix	https://www.smartfit.com.gt/gimnasios/mix-san-cristobal
+tikal	https://www.smartfit.com.gt/gimnasios/tikal-futura
